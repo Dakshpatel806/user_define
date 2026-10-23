@@ -1,0 +1,5 @@
+Module,Setup_ns,Hold_ns,Area_um2,Dynamic_mW
+ALU,0.42,0.08,120.5,14.2
+FIFO,0.63,0.12,90.0,11.8
+CTRL,0.31,0.05,48.3,4.1
+MEM_IF,0.55,0.02,75.4,8.6
