@@ -1,0 +1,2 @@
+proj_ok/rtl/alu.v
+proj_ok/rtl/ctrl.sv

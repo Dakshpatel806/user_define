@@ -1,0 +1,3 @@
+Project         : proj_ok
+Source file count: 2
+Run status      : READY

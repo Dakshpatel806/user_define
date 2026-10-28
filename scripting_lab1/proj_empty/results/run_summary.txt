@@ -1,0 +1,3 @@
+Project         : proj_empty
+Source file count: 0
+Run status      : FAILED - no .v/.sv files found in proj_empty/rtl
